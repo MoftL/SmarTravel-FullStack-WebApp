@@ -114,9 +114,6 @@ The application will be available at **http://localhost:3000**.
 
 ---
 
-## 📸 Screenshots (Optional)
-> *(Add screenshots or GIFs showing the map, routing, and fuel calculator for visual appeal.)*
-
 ---
 
 ## 🤝 Contributing
